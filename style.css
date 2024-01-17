@@ -41,4 +41,12 @@ thead {
 #serpiente {
     z-index: 2;
 }
-
+#back {
+    display:block;
+    margin-left: auto;
+}
+#serpis {
+    text-align: center;
+    background: linear-gradient(to top, rgb(214, 4, 133), rgb(0, 255, 85)) padding-box text;
+  color: transparent;
+    }
