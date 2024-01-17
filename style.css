@@ -1,0 +1,44 @@
+#tabla {
+    background-color: rgb(183, 219, 210);
+    border: 2px solid black;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+td {
+    border: 2px solid black
+
+}
+body {
+    background-color:wheat
+}
+.italic {
+    font-style: italic;
+}
+p {
+    text-align: center;
+}
+#mundoflopi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+thead {
+    text-align: center;
+  }
+  #serpiente:hover {
+    opacity: 0%;
+    }
+.container {
+    position: relative;
+}
+.imagen2 {
+    position: absolute;
+    left: 0px;
+    z-index: -1;
+}
+#serpiente {
+    z-index: 2;
+}
+
